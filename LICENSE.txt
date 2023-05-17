@@ -1,4 +1,5 @@
 MIT License
+All software here are open source and released under a recognized legal license by [Open Source Initiative](https://opensource.org/licenses/)
 
 Copyright (c) [2023] [Tran Tien Dzung]
 
