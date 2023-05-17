@@ -43,7 +43,7 @@ accuracy = model.evaluate(X_test, y_test)
 For more detailed instructions and API documentation, refer to the official documentation
 
 ## Examples
-Check out the examples directory in the repository for various usage examples and demonstrations of TTNet on different tasks.
+Check out the dataset below for various usage examples and demonstrations of TTNet on different tasks.
 
 ## Contributing
 Contributions to TTNet are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request. See the contribution guidelines for more information.
