@@ -1,6 +1,6 @@
 # TTNet: a novel machine learning model for facial emotion detection using in online learning systems
 ## The purpose of our software
-TTNet is a lightweight neural network library implemented in Python for detection of facial emotion from images or videos. It provides a simple and intuitive interface for building and training neural networks. With TTNet, you can quickly prototype and experiment with different network architectures and training configurations. You can download the source code at this link (https://github.com/trantd/TTNet)
+TTNet is a lightweight neural network library implemented in Python for detection of facial emotion from images or videos. It provides a simple and intuitive interface for building and training neural networks. With TTNet, you can quickly prototype and experiment with different network architectures and training configurations. You can download the source code at [this link](https://github.com/trantd/TTNet)
 
 ## Features
 - The network architecture can predict human emotion from facial images or videos
